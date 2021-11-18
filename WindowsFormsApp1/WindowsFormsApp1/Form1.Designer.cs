@@ -38,7 +38,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(141, 52);
             this.button1.TabIndex = 0;
-            this.button1.Text = "TOVUnew";
+            this.button1.Text = "TOVU2021";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // treeView1
